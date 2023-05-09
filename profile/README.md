@@ -20,7 +20,7 @@ Visual-Code-Space is an Android application that brings the power of Visual Stud
 
 - [ ] Integrated terminal: Run terminal commands directly in the editor.
 
-- [ ] Multi-language support: Support for multiple languages, including JavaScript, TypeScript, Python, Java, and many more.
+- [X] Multi-language support: Support for multiple languages, including JavaScript, TypeScript, Python, Java, and many more.
 
 - [ ] Theme customization: Change the look and feel of the editor with a wide range of themes.
 
