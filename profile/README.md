@@ -6,7 +6,6 @@ Visual-Code-Space is an Android application that brings the power of Visual Stud
 - [ ] Git integration: Manage your source code with Git integration, including support for branching, merging, and committing changes.
 - [ ] Extensions: A vast library of extensions allows you to customize your development environment to your needs.
 - [x] Code highlighting: Syntax highlighting makes it easier to read and write code.
-- [ ] Code navigation: Quickly jump to functions, classes, or other symbols in your codebase.
 - [X] Integrated terminal: Run terminal commands directly in the editor.
 - [X] Multi-language support: Support for multiple languages, including JavaScript, TypeScript, Python, Java, and many more.
 - [ ] Theme customization: Change the look and feel of the editor with a wide range of themes.
