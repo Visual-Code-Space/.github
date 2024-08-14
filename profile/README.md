@@ -1,6 +1,6 @@
 # ✨️ Visual-Code-Space
 
-Visual-Code-Space is an Android application that brings the power of Visual Studio Code to your mobile device. With a rich set of features, it provides a flexible and customizable development environment for programmers on the go.
+Visual-Code-Space offers a beautiful file explorer and a great code editor for your Android device!
 
 ## 📱 Downloading and Installation
 
